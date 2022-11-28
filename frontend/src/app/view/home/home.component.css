@@ -1,0 +1,13 @@
+/* O rem se baseia na fonte definida na página. Ou seja, se o padrão é 16px, 1rem = 16px  */
+/* O em se baseia na fonte anterior, no pai. Ou seja, se a fonte anterior é 9px, 1em = 9px  */
+
+.home .title {
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.home .subtitle {
+    font-size: 1.1rem; 
+}
+
